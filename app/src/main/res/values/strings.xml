@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConfigChangesMVVM</string>
+    <string name="counter">Counter</string>
+</resources>
